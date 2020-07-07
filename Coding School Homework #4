@@ -1,0 +1,28 @@
+siblings=3
+subject='french'
+subject="Math"
+print(subject)
+# bananas would be printed as 8//
+3 = int
+-2.1 = float
+80.22123 = float
+54444 = int
+30 = int
+float(100)
+int(-4.8)
+x=y=z="apple"
+x = 4
+y = 5
+z=x
+print(x)
+candybar = "Snickers" 
+candybar = "Milkyway"
+print(candybar)
+name="Diya"
+print("My name is " + name +".")
+subject ="French"
+season = "summer"
+print("My favourite subject is " + subject + " and my favourite season is " + season + ".")
+hobby = "I love coding."
+print(hobby)
+cities=[Toronto,Sorrento,Paris,London,Quebec City]
