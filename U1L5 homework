@@ -1,0 +1,29 @@
+broccoli = 5
+tomatoes = 11
+lettuce = 13
+green_beans = 2
+total = broccoli + tomatoes + lettuce + green_beans
+print(total)
+productbl = broccoli*lettuce
+print(productbl)
+differencegbt = green_beans-tomatoes
+print(differencegbt)
+newbroccoli = 5+broccoli
+print(newbroccoli)
+Matt = 12
+Maxime = 15
+Total = Matt+Maxime
+print(Total)
+initial_grade = 86
+forgot_name = 5
+final_grade = initial_grade-forgot_name
+print(final_grade)
+piles = 3
+pieces = 10
+total = piles*pieces
+print(total)
+apples = 5
+apples = 5+10
+apples*15
+number1=3000
+print(number1/10)
