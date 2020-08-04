@@ -1,0 +1,28 @@
+Name=(input('What is your name?'))
+Age=int(input('How old are you?'))
+Country=(input('What country are you from?'))
+print('You are from' + Country)
+Month=(input('What month is it?'))
+print('The month is ' + Month)
+Cookies=int(input('How many cookies do you have?'))
+print(Cookies + 2)
+Nick=(input('What is your nickname?'))
+print('Good Morning ' + Nick) 
+Mood=(input('How are you doing?'))
+print('Thanks for letting me know!')
+Num=(input('What is your favourite number?'))
+Num*=100
+Temp=int(input('What is the temperature in Farenheight?'))
+Temp-=32
+Temp*=5/9
+print(Temp)
+Old=int(input('How old are you?'))
+Year=int(input('What year is it'))
+younger= Year - Old
+older=Old+10
+younger=str(younger)
+older=str(older)
+print('You were 10 years ago ' + younger + ' and you will be in 10 years ' + older)
+Numbre=(input('Write two numbers in here'))
+print(Numbre)
+print('You were 10 years ago ', younger, ' and you will be in 10 years', older)
