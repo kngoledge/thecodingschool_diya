@@ -1,0 +1,36 @@
+False
+True
+False
+True
+True
+True
+False
+False
+True
+True
+True
+False
+True
+True
+Num1=input('Please type in a number.')
+Num2=input('Please type in another number.')
+print(Num1>Num2)
+      16)Num1.2=input('Please type in a number.')
+Num2.2=input('Please type in another number.')
+print(Num1=Num2)
+       17)first=input('What is your first name' )
+            last=input('What is your last name')
+year=int=input('What year were you born in?')
+print('Nice to meet you' + first + last)
+print(‘You were born in 0000’+year)
+print('The current year is 2.02 x 103')
+print(‘That means you are’ + (2020-year))
+print(‘Your magic percentage’ + (2020/year*100))
+print(‘Goodbye’)
+   18)x=input=int=(‘Glarkonians, what is the latest x coordinate?’)
+            y=input=int=(‘Glarkonians, what is the latest y coordinate?’)
+z=input=int=(‘Glarkonians, what is the latest z coordinate?’)
+input=int=(‘How many digits can I store’)
+print(x)
+print(y)
+print(z)
